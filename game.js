@@ -759,7 +759,7 @@ function getCrescimentoClasse() {
 function mudarTela(id) {
     document.querySelectorAll('.screen').forEach(function(s) { s.classList.remove('active'); });
     document.getElementById(id).classList.add('active');
-    document.body.style.backgroundImage = id === 'welcomeScreen' ? "url('images/Fundo/rpg.png')" : "url('images/Fundo/tela.png')";
+    document.body.style.backgroundImage = id === 'welcomeScreen' ? "url('rpg.png')" : "url('images/Fundo/tela.png')";
 }
 
 function esconderTodosPaineis() {
