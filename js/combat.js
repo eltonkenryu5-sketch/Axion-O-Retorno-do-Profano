@@ -686,18 +686,18 @@ function atualizarBarraPlayerVisual() {
 // ============================================
 
 var sonsCombate = {
-    combateInicio: "images/sons/combat/combat.ogg",
-    eliteApareceu: "images/sons/combat/elite.m4a",
-    bossApareceu: "images/sons/combat/boss.m4a",
-    ataque: "images/sons/combat/Attack3.ogg",
-    critico: "images/sons/combat/Damage2.m4a",
-    danoRecebido: "images/sons/combat/Damage3.m4a",
-    cura: "images/sons/combat/Heal3.ogg",
-    habilidade: "images/sons/combat/Skill2.ogg",
-    fuga: "images/sons/combat/Run.m4a",
-    esquiva: "images/sons/combat/Miss.m4a",
-    vitoria: "images/sons/combat/Victory2.m4a",
-    derrota: "images/sons/combat/Defeat2.m4a"
+    combateInicio: "images/Sons/combat/combat.ogg",
+    eliteApareceu: "images/Sons/combat/elite.m4a",
+    bossApareceu: "images/Sons/combat/boss.m4a",
+    ataque: "images/Sons/combat/Attack3.ogg",
+    critico: "images/Sons/combat/Damage2.m4a",
+    danoRecebido: "images/Sons/combat/Damage3.m4a",
+    cura: "images/Sons/combat/Heal3.ogg",
+    habilidade: "images/Sons/combat/Skill2.ogg",
+    fuga: "images/Sons/combat/Run.m4a",
+    esquiva: "images/Sons/combat/Miss.m4a",
+    vitoria: "images/Sons/combat/Victory2.m4a",
+    derrota: "images/Sons/combat/Defeat2.m4a"
 };
 
 function tocarSomCombate(nomeSom) {
